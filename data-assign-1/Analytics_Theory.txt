@@ -1,0 +1,9 @@
+Data Analysis can be organized into 6 types
+
+	Exploratory Analysis
+	Descriptive Analysis
+	Inferential Analysis
+	Predictive Analysis
+	Causal Analysis
+	Mechanistic Analysis
+	https://www.analyticsvidhya.com/blog/2021/04/exploratory-analysis-using-univariate-bivariate-and-multivariate-analysis-techniques/
